@@ -1,0 +1,83 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "TestApplication",
+			"request": "launch",
+			"mainClass": "com.example.test_application.TestApplication",
+			"projectName": ""
+		},
+		{
+			"type": "java",
+			"name": "module1Application",
+			"request": "launch",
+			"mainClass": "com.example.module1.module1Application",
+			"projectName": ""
+		},
+		{
+			"type": "java",
+			"name": "App",
+			"request": "launch",
+			"mainClass": "com.example.module2.App",
+			"projectName": ""
+		},
+		{
+			"type": "java",
+			"name": "App",
+			"request": "launch",
+			"mainClass": "com.example.App",
+			"projectName": ""
+		},
+		{
+			"type": "java",
+			"name": "VaqtestApplication",
+			"request": "launch",
+			"mainClass": "vaqtest.vaqtest.VaqtestApplication",
+			"projectName": ""
+		},
+		{
+			"type": "java",
+			"name": "PayrollApplication",
+			"request": "launch",
+			"mainClass": "payroll.payroll.PayrollApplication",
+			"projectName": ""
+		},
+		{
+			"type": "java",
+			"name": "RestServiceApplication",
+			"request": "launch",
+			"mainClass": "com.example.restservice.RestServiceApplication",
+			"projectName": "rest-service-initial"
+		},
+		{
+			"type": "java",
+			"name": "Spring Boot-RestServiceApplication<rest-service-complete>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "com.example.restservice.RestServiceApplication",
+			"projectName": "rest-service-complete",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		},
+		{
+			"type": "java",
+			"name": "Spring Boot-PayrollApplication<payroll>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "payroll.payroll.PayrollApplication",
+			"projectName": "payroll",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		},
+		{
+			"type": "java",
+			"name": "Spring Boot-LibraryApplication<library>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "com.example.library.LibraryApplication",
+			"projectName": "library",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}

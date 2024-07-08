@@ -1,0 +1,45 @@
+1705323987.175478 client started (6399): version 3.0a, socket /tmp/tmux-0/default, protocol 8
+1705323987.175522 on Linux 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021; libevent 2.1.11-stable (poll)
+1705323987.175539 socket is /tmp/tmux-0/default
+1705323987.175553 trying connect
+1705323987.175667 add peer 0x5569a0852ea0: 6 ((nil))
+1705323987.175751 sending message 100 to peer 0x5569a0852ea0 (4 bytes)
+1705323987.175762 sending message 101 to peer 0x5569a0852ea0 (15 bytes)
+1705323987.175768 sending message 102 to peer 0x5569a0852ea0 (11 bytes)
+1705323987.175773 sending message 108 to peer 0x5569a0852ea0 (25 bytes)
+1705323987.175779 sending message 104 to peer 0x5569a0852ea0 (0 bytes)
+1705323987.175784 sending message 107 to peer 0x5569a0852ea0 (4 bytes)
+1705323987.175789 sending message 105 to peer 0x5569a0852ea0 (16 bytes)
+1705323987.175794 sending message 105 to peer 0x5569a0852ea0 (13 bytes)
+1705323987.175799 sending message 105 to peer 0x5569a0852ea0 (3735 bytes)
+1705323987.175813 sending message 105 to peer 0x5569a0852ea0 (20 bytes)
+1705323987.175819 sending message 105 to peer 0x5569a0852ea0 (8 bytes)
+1705323987.175824 sending message 105 to peer 0x5569a0852ea0 (34 bytes)
+1705323987.175829 sending message 105 to peer 0x5569a0852ea0 (21 bytes)
+1705323987.175833 sending message 105 to peer 0x5569a0852ea0 (11 bytes)
+1705323987.175838 sending message 105 to peer 0x5569a0852ea0 (10 bytes)
+1705323987.175843 sending message 105 to peer 0x5569a0852ea0 (13 bytes)
+1705323987.175847 sending message 105 to peer 0x5569a0852ea0 (19 bytes)
+1705323987.175852 sending message 105 to peer 0x5569a0852ea0 (25 bytes)
+1705323987.175857 sending message 105 to peer 0x5569a0852ea0 (8 bytes)
+1705323987.175862 sending message 105 to peer 0x5569a0852ea0 (29 bytes)
+1705323987.175867 sending message 105 to peer 0x5569a0852ea0 (32 bytes)
+1705323987.175872 sending message 105 to peer 0x5569a0852ea0 (21 bytes)
+1705323987.175876 sending message 105 to peer 0x5569a0852ea0 (11 bytes)
+1705323987.175881 sending message 105 to peer 0x5569a0852ea0 (8 bytes)
+1705323987.175886 sending message 105 to peer 0x5569a0852ea0 (32 bytes)
+1705323987.175891 sending message 105 to peer 0x5569a0852ea0 (1506 bytes)
+1705323987.175899 sending message 105 to peer 0x5569a0852ea0 (19 bytes)
+1705323987.175904 sending message 105 to peer 0x5569a0852ea0 (16 bytes)
+1705323987.175909 sending message 105 to peer 0x5569a0852ea0 (46 bytes)
+1705323987.175913 sending message 105 to peer 0x5569a0852ea0 (55 bytes)
+1705323987.175918 sending message 105 to peer 0x5569a0852ea0 (16 bytes)
+1705323987.175923 sending message 106 to peer 0x5569a0852ea0 (0 bytes)
+1705323987.175928 sending message 200 to peer 0x5569a0852ea0 (4 bytes)
+1705323987.175933 client loop enter
+1705323987.179101 peer 0x5569a0852ea0 message 207
+1705323987.179122 sending message 208 to peer 0x5569a0852ea0 (0 bytes)
+1705323990.415597 peer 0x5569a0852ea0 message 203
+1705323990.415626 sending message 205 to peer 0x5569a0852ea0 (0 bytes)
+1705323990.416158 peer 0x5569a0852ea0 message 204
+1705323990.416179 client loop exit
